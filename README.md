@@ -5,7 +5,7 @@ This project is a simple registration form created to practice client-side form 
 All validations are handled using JavaScript instead of default HTML validation.
 
 ## Live Demo
-- Link: 
+- Link: client-side-form-validation-using-j.vercel.app
 
 ## Features
 - Validate name, email, password, and confirm password fields
